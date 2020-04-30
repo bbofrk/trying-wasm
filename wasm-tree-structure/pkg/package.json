@@ -1,0 +1,15 @@
+{
+  "name": "wasm-tree-structure",
+  "collaborators": [
+    "sc-laurence <laurence.wang@shareclarity.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_tree_structure_bg.wasm",
+    "wasm_tree_structure.js",
+    "wasm_tree_structure.d.ts"
+  ],
+  "module": "wasm_tree_structure.js",
+  "types": "wasm_tree_structure.d.ts",
+  "sideEffects": false
+}
